@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, sans-serif;
+    background-color: #db6e15;
+}
+.contaner{
+    margin:20px auto;
+    width:550px;
+    padding: 20px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+}
+#data input,button{
+   font-size:1rem; 
+   padding: 8px;
+   border-radius: 5px;
+}
+button{
+    background-color: green;
+    border: none;
+}
+h3{
+    color: rgb(85, 84, 84);
+}
+h1{
+    text-align: center;
+
+}
